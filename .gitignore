@@ -1,0 +1,17 @@
+# Airflow
+airflow_data/
+logs/
+*.log
+*.pid
+
+# Docker
+postgres_data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/
